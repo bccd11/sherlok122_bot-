@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": ".",
+      "use": "python"
+    }
+  ],
+  "deploy": {
+    "startCommand": "python bot.py"
+  }
+}
